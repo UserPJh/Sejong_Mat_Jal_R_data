@@ -60,6 +60,21 @@
     "uptaenm": "한식"
   }
   ```
+- ### restaurantsIdentified.json
+  ```js
+  {
+    "id": "ChIJoYDLOsWkfDUREoVjl59t1NM",
+    "name": "한국통닭",
+    "location": {
+      "lat": 37.5491126,
+      "lng": 127.07145500000001
+    },
+    "rating": 1,
+    "address": "서울특별시 광진구 군자동 362번지 1층 103호 동일흥업주식회사 주식회사",
+    "majorTag": "호프/통닭"
+  },
+  ```
+  
 - 332개
 
 ## 6. [restaurantsDeleted.json](public/restaurantsDeleted.json)
