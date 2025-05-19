@@ -33,7 +33,7 @@
 - ### 예시 데이터
 
 - ### restaurants.json
-  ```json
+  ```js
   {
     "id": "ChIJwVFs2sSkfDURnyTGSSXzdro",
     "name": "세종원",
@@ -47,7 +47,7 @@
   }
   ```
 - ### availableData.json
-  ```json
+  ```js
   {
     "lastmodts": "2025-04-15 13:57:58",
     "dtlstatenm": "영업",
