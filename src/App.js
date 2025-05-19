@@ -1,9 +1,11 @@
-import RestaurantCollector from "./components/RestaurantCollector.jsx";
+//import RestaurantCollector from "./components/RestaurantCollector.jsx";
+import RestaurantFiltering from "./components/RestaurantFiltering.jsx";
 
 function App() {
   return (
     <div>
-      <RestaurantCollector />
+      {/*<RestaurantCollector/>*/}
+      <RestaurantFiltering />
     </div>
   );
 }
