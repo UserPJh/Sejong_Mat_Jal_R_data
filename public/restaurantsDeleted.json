@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "ChIJoYDLOsWkfDUR9X6uzZvDkbs",
+    "name": "대박족발",
+    "location": {
+      "lat": 37.5491126,
+      "lng": 127.07145500000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 362번지 1층 105호 동일흥업주식회사 주식회사"
+  },
+  {
+    "id": "ChIJLyVnM8WkfDURgGFWaYWeKhM",
+    "name": "세끼락건대점",
+    "location": {
+      "lat": 37.549120699999996,
+      "lng": 127.07213850000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 362-17번지 1층"
+  },
+  {
+    "id": "ChIJl0EhF8WkfDURisPxk20VAKo",
+    "name": "예진이네",
+    "location": {
+      "lat": 37.5495367,
+      "lng": 127.0706214
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 346-21번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJl0EhF8WkfDURj02jzjqG2GQ",
+    "name": "1982떡볶이앤김밥",
+    "location": {
+      "lat": 37.5495367,
+      "lng": 127.0706214
+    },
+    "rating": 3.3,
+    "address": "서울특별시 군자동 346-21번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJc-JfR8WkfDUR0GTWdAh5LOU",
+    "name": "면당포화양점",
+    "location": {
+      "lat": 37.5497359,
+      "lng": 127.07130809999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 363 13번지 1층 10호"
+  },
+  {
+    "id": "ChIJo_JLQ8WkfDUROeFRVszSVho",
+    "name": "피자스쿨 세종대점",
+    "location": {
+      "lat": 37.5500666,
+      "lng": 127.0710604
+    },
+    "rating": 4.4,
+    "address": "서울특별시 광진구 군자로 76"
+  },
+  {
+    "id": "ChIJieqMXMWkfDURj0_PcoCJ3L0",
+    "name": "황금찹쌀꽈배기",
+    "location": {
+      "lat": 37.5504897,
+      "lng": 127.07114600000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 번지 1층 363-4"
+  },
+  {
+    "id": "ChIJw6n3QMWkfDURKV-Rg-NX9vs",
+    "name": "옛뜰칼국수",
+    "location": {
+      "lat": 37.549921399999995,
+      "lng": 127.071067
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 363-14번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": " ",
+    "name": "기차길옆오막살이",
+    "location": {
+      "lat": 37.549921399999995,
+      "lng": 127.071067
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 363-14"
+  },
+  {
+    "id": "ChIJQY-eTQClfDURGQwkof01CvM",
+    "name": "Pizza Burger",
+    "location": {
+      "lat": 37.5505886,
+      "lng": 127.07113869999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자로 84-1"
+  },
+  {
+    "id": "ChIJXbLNXsWkfDURLMp3pwHAEXg",
+    "name": "지어미유황오리쭈꾸미",
+    "location": {
+      "lat": 37.5507329,
+      "lng": 127.0712109
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 363-2"
+  },
+  {
+    "id": "ChIJRf3JXsWkfDURtn--DOm0jWw",
+    "name": "순우리한우",
+    "location": {
+      "lat": 37.550709,
+      "lng": 127.071201
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 363-2번지 1층 모웅남치과의원 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ3XjQQXSlfDUR34Ce9Ghi8-Q",
+    "name": "세종대학교 푸드코트",
+    "location": {
+      "lat": 37.549483099999996,
+      "lng": 127.0750716
+    },
+    "rating": 4.4,
+    "address": "서울특별시 광진구 군자동 339-1"
+  },
+  {
+    "id": "ChIJqeEU7s-kfDURa7ahGToR76o",
+    "name": "오(VEN)돈구이",
+    "location": {
+      "lat": 37.5515334,
+      "lng": 127.0712971
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 364-3번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJLwXq7s-kfDURTCm8jCDQRRg",
+    "name": "신주쿠우",
+    "location": {
+      "lat": 37.5516696,
+      "lng": 127.07132709999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 364-1번지 1층"
+  },
+  {
+    "id": "ChIJ1eFxY1ulfDUREZxm6ZIUm_s",
+    "name": "중화제면소",
+    "location": {
+      "lat": 37.5522251,
+      "lng": 127.07160879999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자로 104 1층"
+  },
+  {
+    "id": "ChIJh5Y3w8-kfDURTjpTFsW0FAg",
+    "name": "만남포차",
+    "location": {
+      "lat": 37.5521713,
+      "lng": 127.07152229999998
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 102-37번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJG6cFnLSlfDURpUKQfs3pivE",
+    "name": "베트남 쌀국수 Duy linh",
+    "location": {
+      "lat": 37.5522521,
+      "lng": 127.07154709999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자로 102"
+  },
+  {
+    "id": "ChIJczF8VoelfDUR73RD05hpcbE",
+    "name": "便宜能吃饱的面条火锅",
+    "location": {
+      "lat": 37.552422199999995,
+      "lng": 127.071773
+    },
+    "rating": 4.8,
+    "address": "서울특별시 광진구 군자동 102-29번지 1층"
+  },
+  {
+    "id": "ChIJcyxE6M-kfDURp7t5oPve7uk",
+    "name": "장수마을고깃집",
+    "location": {
+      "lat": 37.5518976,
+      "lng": 127.07144539999999
+    },
+    "rating": 3.9,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJOy-U48ilfDURlHvbI3JVaIk",
+    "name": "하얼빈만두",
+    "location": {
+      "lat": 37.5522529,
+      "lng": 127.07125309999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자로 101"
+  },
+  {
+    "id": "ChIJ3xQETPOlfDURO2CzC4CvzNk",
+    "name": "명랑핫도그세종대점",
+    "location": {
+      "lat": 37.552536499999995,
+      "lng": 127.0715619
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 군자로 105-1"
+  },
+  {
+    "id": "ChIJXWYs40OlfDURfj-5lgF0Wpw",
+    "name": "수란주",
+    "location": {
+      "lat": 37.552536499999995,
+      "lng": 127.0715619
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자로 105-1 1층"
+  },
+  {
+    "id": "ChIJ-4b01M-kfDURex2xKzR0ufc",
+    "name": "신생숯불갈비",
+    "location": {
+      "lat": 37.552816,
+      "lng": 127.0719885
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 군자동 102-1"
+  },
+  {
+    "id": "ChIJg1Kl0c-kfDURwy5m81ztkAM",
+    "name": "깡통닭",
+    "location": {
+      "lat": 37.552659999999996,
+      "lng": 127.07168600000001
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 102-2번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJv6_EKs6kfDURLyfPbDDQ1hA",
+    "name": "석기시대 짜장마을",
+    "location": {
+      "lat": 37.552929299999995,
+      "lng": 127.07214180000001
+    },
+    "rating": 4.3,
+    "address": "서울특별시 광진구 군자로 111"
+  },
+  {
+    "id": "ChIJz10MOs6kfDURwHP5pG38Qww",
+    "name": "만족을잇다",
+    "location": {
+      "lat": 37.5537959,
+      "lng": 127.07129619999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 125 212번지 178호"
+  },
+  {
+    "id": "ChIJz10MOs6kfDUR_qPeSMcFguA",
+    "name": "메르커",
+    "location": {
+      "lat": 37.5537959,
+      "lng": 127.07129619999999
+    },
+    "rating": null,
+    "address": "서울특별시 KR 서울특별시 광진구 군자동 125-212번지 1층 1동 15호"
+  },
+  {
+    "id": "ChIJpTPRgM-kfDURCjDgjIlglz8",
+    "name": "맛있는소리",
+    "location": {
+      "lat": 37.551541799999995,
+      "lng": 127.06985519999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 번지 1층 344-2"
+  },
+  {
+    "id": "ChIJa6URLWalfDUR_ujSZLakHc0",
+    "name": "핫떡스",
+    "location": {
+      "lat": 37.5514714,
+      "lng": 127.07006319999999
+    },
+    "rating": 4.6,
+    "address": "서울특별시 광진구 군자동 344-4"
+  },
+  {
+    "id": "ChIJTbarh8-kfDURArHwYnFGSXE",
+    "name": "핫떡",
+    "location": {
+      "lat": 37.551441499999996,
+      "lng": 127.07005660000002
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 344-4번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ-S_bgc-kfDURVa1OWykOEwA",
+    "name": "맛이 차이나",
+    "location": {
+      "lat": 37.5517938,
+      "lng": 127.0695545
+    },
+    "rating": 4.5,
+    "address": "서울특별시 광진구 동일로 224"
+  },
+  {
+    "id": "ChIJ9cTSYsWkfDURd7em46Qeb-Q",
+    "name": "가평식당",
+    "location": {
+      "lat": 37.5511681,
+      "lng": 127.070222
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 348-2번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ9cTSYsWkfDURz_xcAP-yXhA",
+    "name": "도구새추어탕",
+    "location": {
+      "lat": 37.5511681,
+      "lng": 127.070222
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 348-2"
+  },
+  {
+    "id": "ChIJT71LEMWkfDURUukw4NwbVNc",
+    "name": "이천식당",
+    "location": {
+      "lat": 37.5496506,
+      "lng": 127.0703178
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 346-20번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ-7W7WcSkfDURUHa6lQExATU",
+    "name": "진주품은활어",
+    "location": {
+      "lat": 37.548631799999995,
+      "lng": 127.0693266
+    },
+    "rating": 5,
+    "address": "서울특별시 군자동 357-8번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDURd56hwwBIbJA",
+    "name": "우쿠야군자점",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 동양 파라곤1단지 B101 호 제지 제주방 13호 KR 서울특별시 광진구 군자동 360-20번지 1층"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDURVgp7Vej-NMI",
+    "name": "줄벼락",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 동양 파라곤1단지 101 동 주방 6호 KR 서울특별시 광진구 군자동 360-20번지 지하1층"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDURPrWpc9lVOdk",
+    "name": "퍼사이공군자점",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 동양 파라곤1단지 101 동 주방 20호 KR 서울특별시 광진구 군자동 360-20번지 제지1층"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDUReD6L_vpl0hI",
+    "name": "뉴욕쟁이한우국밥",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 동양 파라곤1단지 101 호 제지 제비주방 2호 KR 서울특별시 광진구 군자동 360-20번지 1층"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDURQJ4pq4KjHs0",
+    "name": "어오내닭볶이탕광진점",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 동양 파라곤1단지아파트 9호 KR 서울특별시 광진구 군자동 360-20번지 B1층 B101호 주방"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDURbQ6rSSeWdhA",
+    "name": "호향쭈꾸미",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 동양 360-20번지 파라곤1단지아파트 B110호 KR 서울특별시 광진구 군자동"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDURtfGYtokBLL8",
+    "name": "아웃백딜리버리건대입구점",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 동양 파라곤1단지아파트 KR 서울특별시 광진구 군자동 360-20번지 지하1층 101호 주방B호"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDURqrhURfO4Nvg",
+    "name": "다이찌",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": 3.5,
+    "address": "서울특별시 광진구 군자동 360-20 군자동 360-20 광진구 서울특별시 KR 05003"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDURmL8X5henRVw",
+    "name": "(주)반장푸드반장떡볶이건대배달전문점",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 KR 서울특별시 광진구 군자동 360-20번지 광진동양파라곤1단지아파트 지하1층 101호 주방11호"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDUR-Hzyu4_6FcY",
+    "name": "구구포차",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 360-20번지 111호"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDUR5Raez05MUiw",
+    "name": "하안",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 360-20번지 광진도양파라곤1단지아파트 제지1층 B동 108호 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDUR_GmkbybTC1k",
+    "name": "일품화계",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 360-20번지 동양파라곤1단지아파트"
+  },
+  {
+    "id": "ChIJ9wUq-8SkfDURASxUTR549ek",
+    "name": "철순이네김치찌개",
+    "location": {
+      "lat": 37.5485531,
+      "lng": 127.07020009999998
+    },
+    "rating": 4.4,
+    "address": "서울특별시 군자동 360-20번지 101동 111호 광진동양파라곤1단지아파트 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJh1uI-IulfDURV-HELVzZ0HM",
+    "name": "본래순대 화양점",
+    "location": {
+      "lat": 37.5489837,
+      "lng": 127.0705366
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 군자동 군자로 63 본래순대 화양점 1층"
+  },
+  {
+    "id": "ChIJL7nWHcWkfDURZdhzR-VtEgM",
+    "name": "놀부옛날통닭&보쌈",
+    "location": {
+      "lat": 37.5489837,
+      "lng": 127.0705366
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 360-23번지 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ51Y6PsSkfDURfU8l0OcWZQk",
+    "name": "일우서유",
+    "location": {
+      "lat": 37.5486843,
+      "lng": 127.06798829999998
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 355-5번지 지하층 층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJJ_Cd3s2lfDURfOfYVGUcElM",
+    "name": "명품돼지집부속전문",
+    "location": {
+      "lat": 37.5480357,
+      "lng": 127.0680111
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 광나루로 344"
+  },
+  {
+    "id": "ChIJPbSYDcSkfDURN5lHfg2Q4sM",
+    "name": "강화밴뎅이",
+    "location": {
+      "lat": 37.5480357,
+      "lng": 127.0680111
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 화양동 광나루로 344"
+  },
+  {
+    "id": "ChIJCUB3bcSkfDURa6Kui-JufUk",
+    "name": "아도러블",
+    "location": {
+      "lat": 37.547967299999996,
+      "lng": 127.0683583
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 21-2번지 화양 1층 103호"
+  },
+  {
+    "id": "ChIJCUB3bcSkfDUR5m7haRV7cY4",
+    "name": "돈까스국수",
+    "location": {
+      "lat": 37.547967299999996,
+      "lng": 127.0683583
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 21-2번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJU5nYbcSkfDURrYnzkBImfrY",
+    "name": "엽기떡볶이 화양점",
+    "location": {
+      "lat": 37.5479276,
+      "lng": 127.0683501
+    },
+    "rating": 2.3,
+    "address": "서울특별시 광진구 화양동 21-2"
+  },
+  {
+    "id": "ChIJRYiaasSkfDUR_ZziAQPvfgo",
+    "name": "최대감네",
+    "location": {
+      "lat": 37.548477999999996,
+      "lng": 127.0683349
+    },
+    "rating": 3.2,
+    "address": "서울특별시 광진구 군자동 355-12"
+  },
+  {
+    "id": "ChIJ52ObasSkfDURJmWox2JqiAA",
+    "name": "명문한우가",
+    "location": {
+      "lat": 37.548477999999996,
+      "lng": 127.0683349
+    },
+    "rating": 3.2,
+    "address": "서울특별시 광진구 군자동 355-12"
+  },
+  {
+    "id": "ChIJ_3ITb8SkfDURyWV0RPbxFoY",
+    "name": "먹보순대국앤설렁탕",
+    "location": {
+      "lat": 37.5479653,
+      "lng": 127.0687849
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 21-1번지 1층"
+  },
+  {
+    "id": "ChIJ_3ITb8SkfDUR8bP0HZhQWPk",
+    "name": "다온퓨전회집",
+    "location": {
+      "lat": 37.5479653,
+      "lng": 127.0687849
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 21-1번지 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ_3ITb8SkfDURbhX6dwaBHhU",
+    "name": "봉일천돼지부속숯불구이",
+    "location": {
+      "lat": 37.5479653,
+      "lng": 127.0687849
+    },
+    "rating": 2.5,
+    "address": "서울특별시 광진구 화양동 21-1"
+  },
+  {
+    "id": "ChIJ8a10b8SkfDURhyGEOF1Hbak",
+    "name": "다래회일식",
+    "location": {
+      "lat": 37.5479276,
+      "lng": 127.06879449999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 21-1"
+  },
+  {
+    "id": "ChIJCUB3bcSkfDURX1FOiP3csmI",
+    "name": "벼락떡볶이",
+    "location": {
+      "lat": 37.5479938,
+      "lng": 127.06855449999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 21-2"
+  },
+  {
+    "id": "ChIJ0SVAPLmlfDUR3zKeERTNEDA",
+    "name": "봉쉐프참치포차",
+    "location": {
+      "lat": 37.5483563,
+      "lng": 127.0700135
+    },
+    "rating": 4.2,
+    "address": "서울특별시 광진구 군자동 358-9"
+  },
+  {
+    "id": "ChIJwVFs2sSkfDURGTj_xvSTIhM",
+    "name": "모델라이져",
+    "location": {
+      "lat": 37.548136299999996,
+      "lng": 127.0715056
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 361-32번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJM7nyTQClfDURZJV18nyMF-o",
+    "name": "춘리마라탕 어린이대공원점",
+    "location": {
+      "lat": 37.5477001,
+      "lng": 127.07146940000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 광나루로 374 2층 201호"
+  },
+  {
+    "id": "ChIJ_Uin19qkfDURe_YjGwrmoTs",
+    "name": "은혜즉석떡볶이",
+    "location": {
+      "lat": 37.5480525,
+      "lng": 127.0723393
+    },
+    "rating": 4.1,
+    "address": "서울특별시 광진구 광나루로 381-1 2층"
+  },
+  {
+    "id": "ChIJDyTcS0SlfDURqZp_WYFgpmE",
+    "name": "마가을고기 어린이대공원점",
+    "location": {
+      "lat": 37.5481191,
+      "lng": 127.07233249999999
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 광나루로 381-1"
+  },
+  {
+    "id": "ChIJLSYh2XSlfDURuxObgoAu06Q",
+    "name": "1984 묵은지",
+    "location": {
+      "lat": 37.5481519,
+      "lng": 127.07246400000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 광나루로17길 13-3"
+  },
+  {
+    "id": "ChIJjcR1KtukfDUR5WiwxjIf50c",
+    "name": "카레와어두이",
+    "location": {
+      "lat": 37.5481519,
+      "lng": 127.07246400000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 361-21번지 1층"
+  },
+  {
+    "id": "ChIJSUHU0NqkfDURILG8HrSDths",
+    "name": "무무앤",
+    "location": {
+      "lat": 37.548355099999995,
+      "lng": 127.07274779999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 371-4번지 1층 5호"
+  },
+  {
+    "id": "ChIJSUHU0NqkfDURbgumsEC7Qq4",
+    "name": "쩌니냥점빵",
+    "location": {
+      "lat": 37.548355099999995,
+      "lng": 127.07274779999999
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 371-4번지 자동 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJGy3O2dqkfDURMJthYZJrZ78",
+    "name": "미친피자 건대본점",
+    "location": {
+      "lat": 37.5482122,
+      "lng": 127.07297410000001
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 광나루로19길 9 2층"
+  },
+  {
+    "id": "ChIJX6xWPdukfDURJ47vn06eagw",
+    "name": "KFC 세종대점",
+    "location": {
+      "lat": 37.547205999999996,
+      "lng": 127.0735751
+    },
+    "rating": 3.8,
+    "address": "서울특별시 광진구 광나루로 396"
+  },
+  {
+    "id": "ChIJ2ebEF9ukfDURzstvoiXxWdw",
+    "name": "차돌폭식",
+    "location": {
+      "lat": 37.5470616,
+      "lng": 127.07361940000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 228"
+  },
+  {
+    "id": "ChIJabzaF9ukfDURfJCW5-B0lz8",
+    "name": "칠성구이식당",
+    "location": {
+      "lat": 37.547058,
+      "lng": 127.0736092
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 228번지 1층"
+  },
+  {
+    "id": "ChIJM7_eY8ylfDURtZ_6z0GSKs0",
+    "name": "또또떡볶이",
+    "location": {
+      "lat": 37.547065499999995,
+      "lng": 127.0736865
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 227"
+  },
+  {
+    "id": "ChIJ4fAxFtukfDURcOGpmDSw4B8",
+    "name": "또또분식",
+    "location": {
+      "lat": 37.546996799999995,
+      "lng": 127.07361669999999
+    },
+    "rating": 5,
+    "address": "서울특별시 화양동 111-124번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJsXsYGtukfDURzhXRfr4qLg0",
+    "name": "(주)에스지푸드분식의신어린이대공원역",
+    "location": {
+      "lat": 37.547112899999995,
+      "lng": 127.07394009999999
+    },
+    "rating": null,
+    "address": "서울특별시 KR 서울특별시 광진구 화양동 164-1번지 지하 7호 선어린이대공원역 지1층 726동 1706"
+  },
+  {
+    "id": "ChIJJR4bO9ukfDUR3lqio8Oeq7k",
+    "name": "씨씨월드화양점",
+    "location": {
+      "lat": 37.547233299999995,
+      "lng": 127.07309970000001
+    },
+    "rating": 2,
+    "address": "서울특별시 광진구 화양동 111-49"
+  },
+  {
+    "id": "ChIJEzwBO9ukfDURkJWvVFzVphw",
+    "name": "맥도날드 어린이대공원점",
+    "location": {
+      "lat": 37.547222399999995,
+      "lng": 127.07308540000001
+    },
+    "rating": 3.7,
+    "address": "서울특별시 광진구 광나루로 392"
+  },
+  {
+    "id": "ChIJNfwdNNukfDUR2AD3_T8HbxI",
+    "name": "주막집",
+    "location": {
+      "lat": 37.547202999999996,
+      "lng": 127.072564
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동"
+  },
+  {
+    "id": "ChIJ3TuqMdukfDURx6RTLaJb9II",
+    "name": "리틀족발이",
+    "location": {
+      "lat": 37.547351,
+      "lng": 127.07271610000001
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 202번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJByQqMtukfDUR2NXpYy2pwRg",
+    "name": "야크",
+    "location": {
+      "lat": 37.5474192,
+      "lng": 127.072559
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동"
+  },
+  {
+    "id": "ChIJDXLxNNukfDURnGL5D-f9RGg",
+    "name": "콩달콩닭",
+    "location": {
+      "lat": 37.547233899999995,
+      "lng": 127.07236899999998
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 111-107번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJj-uEOtukfDURFUdzHlIzd34",
+    "name": "봉채국수",
+    "location": {
+      "lat": 37.5472889,
+      "lng": 127.072933
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 206"
+  },
+  {
+    "id": "ChIJH9-bOtukfDURGUj8cH7uVk8",
+    "name": "이공육",
+    "location": {
+      "lat": 37.5473212,
+      "lng": 127.07292810000001
+    },
+    "rating": 5,
+    "address": "서울특별시 화양동 206번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJH9-bOtukfDURZ2ZNGRrs8ug",
+    "name": "써브웨이 세종대점 SUBWAY",
+    "location": {
+      "lat": 37.5473212,
+      "lng": 127.07292810000001
+    },
+    "rating": 4.1,
+    "address": "서울특별시 광진구 화양동 광나루로 309"
+  },
+  {
+    "id": "ChIJ76QEOtukfDURYn5P2yLDVIk",
+    "name": "오봉교집",
+    "location": {
+      "lat": 37.5471393,
+      "lng": 127.0729394
+    },
+    "rating": 4,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJ76QEOtukfDURhZnZx4kWkw8",
+    "name": "닭이만난새우화양점",
+    "location": {
+      "lat": 37.5471393,
+      "lng": 127.0729394
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 210번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJOSyhNNukfDURVtlrxpu4Htg",
+    "name": "돈주미고추장불고기 세종대점",
+    "location": {
+      "lat": 37.5473444,
+      "lng": 127.07229419999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 193"
+  },
+  {
+    "id": "ChIJS7agNNukfDURoPm8-MSQAm8",
+    "name": "맘대로떡볶이",
+    "location": {
+      "lat": 37.5473504,
+      "lng": 127.07229509999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 193번지 하이뷰오피스텔 2층 207호"
+  },
+  {
+    "id": "ChIJHzaRkiClfDURQu_PSn7_7cA",
+    "name": "샤브온당세종대점",
+    "location": {
+      "lat": 37.547397,
+      "lng": 127.0723072
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 광나루로 386 1층"
+  },
+  {
+    "id": "ChIJH2u4N9ukfDURehkejUCJ2gA",
+    "name": "달호반점",
+    "location": {
+      "lat": 37.546965,
+      "lng": 127.07278079999999
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 화양동 112-16"
+  },
+  {
+    "id": "ChIJzVoQHgClfDURtxBjXWWRjeQ",
+    "name": "내담 해물소갈비찜",
+    "location": {
+      "lat": 37.547284,
+      "lng": 127.07175899999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 114-13"
+  },
+  {
+    "id": "ChIJZXcfycSkfDUReuh0lTHOLZI",
+    "name": "해송",
+    "location": {
+      "lat": 37.547483299999996,
+      "lng": 127.0717387
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 화양동 186"
+  },
+  {
+    "id": "ChIJBc-Jy8SkfDURf7tjS0-yESg",
+    "name": "도네누삼겹살",
+    "location": {
+      "lat": 37.5474564,
+      "lng": 127.0720082
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 111-102"
+  },
+  {
+    "id": "ChIJ22iizsSkfDURXNIbLp8gWv4",
+    "name": "바로키친",
+    "location": {
+      "lat": 37.5475795,
+      "lng": 127.07186669999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 2층 111-5 6호"
+  },
+  {
+    "id": "ChIJ22iizsSkfDUR9x4UWTKvWJA",
+    "name": "한식1번가",
+    "location": {
+      "lat": 37.5475795,
+      "lng": 127.07186669999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 2층 111-5 7호"
+  },
+  {
+    "id": "ChIJ227LucSkfDURjqW8X4aKl3U",
+    "name": "고대서서갈비화양점",
+    "location": {
+      "lat": 37.547208999999995,
+      "lng": 127.0714934
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 114-5번지 1층"
+  },
+  {
+    "id": "ChIJnUZLiLilfDURdEMou39gZ_M",
+    "name": "대포차",
+    "location": {
+      "lat": 37.547208999999995,
+      "lng": 127.0714934
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 114-5"
+  },
+  {
+    "id": "ChIJlStUlcSkfDUR147a5UB0u3g",
+    "name": "제주통도야지",
+    "location": {
+      "lat": 37.5476469,
+      "lng": 127.0708044
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 116-2"
+  },
+  {
+    "id": "ChIJM5QTg8SkfDURiw86G6msU-0",
+    "name": "굽네치킨 화양점",
+    "location": {
+      "lat": 37.5473359,
+      "lng": 127.07067919999999
+    },
+    "rating": 3.4,
+    "address": "서울특별시 광진구 능동로19길 53"
+  },
+  {
+    "id": "ChIJYe9Bv8SkfDURGWwFKI-UGo0",
+    "name": "탕두번째",
+    "location": {
+      "lat": 37.547429699999995,
+      "lng": 127.0711432
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 116-9번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJq3YIvsSkfDURsOHsdK-qRtY",
+    "name": "영도광어두마리",
+    "location": {
+      "lat": 37.5472812,
+      "lng": 127.0709323
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 121-9번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJCbg2kcSkfDUR2DlhJn1h_Ns",
+    "name": "감자탕과닭한마리",
+    "location": {
+      "lat": 37.5473356,
+      "lng": 127.07052759999999
+    },
+    "rating": 4.3,
+    "address": "서울특별시 화양동 132-6번지 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJvZswkcSkfDUR9tnMVF66bfo",
+    "name": "벌집삼겹살",
+    "location": {
+      "lat": 37.547316599999995,
+      "lng": 127.0705166
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 화양동 132-6"
+  },
+  {
+    "id": "ChIJ4_ydxsSkfDUR4DmgrE_cV_M",
+    "name": "랍스타바다",
+    "location": {
+      "lat": 37.5477051,
+      "lng": 127.07132990000001
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 111-70번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJOz5Ej8SkfDURbRZHK_YVGcM",
+    "name": "황소곱창부속일체",
+    "location": {
+      "lat": 37.5473995,
+      "lng": 127.06994059999998
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 17-5번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJPYXNjsSkfDUR6kp06S2HLss",
+    "name": "경주네",
+    "location": {
+      "lat": 37.5475478,
+      "lng": 127.06989580000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 18-24번지 1층"
+  },
+  {
+    "id": "ChIJmbLxjsSkfDURxJ-2lHVXo1o",
+    "name": "서래 세종대점",
+    "location": {
+      "lat": 37.547511,
+      "lng": 127.07001659999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 18-25"
+  },
+  {
+    "id": "ChIJDe9HAwClfDURQXl6LxqZzY0",
+    "name": "단토리 화양점",
+    "location": {
+      "lat": 37.547528799999995,
+      "lng": 127.07002720000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 동일로30길 49"
+  },
+  {
+    "id": "ChIJGf04iMSkfDURD23eUmJtwM0",
+    "name": "대구반야월막창화양점",
+    "location": {
+      "lat": 37.5475628,
+      "lng": 127.0696217
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동"
+  },
+  {
+    "id": "ChIJKcdqjMSkfDURORWS7Ayov5A",
+    "name": "광진양곱창",
+    "location": {
+      "lat": 37.5477054,
+      "lng": 127.0699611
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 18-5"
+  },
+  {
+    "id": "ChIJ2z4AjsSkfDURxay_71eA2FA",
+    "name": "화양동떡볶이소녀",
+    "location": {
+      "lat": 37.5475323,
+      "lng": 127.07021399999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 1층 18-26"
+  },
+  {
+    "id": "ChIJr4h4i8SkfDURpwUrl2Ektkw",
+    "name": "둘둘치킨 화양점",
+    "location": {
+      "lat": 37.5477887,
+      "lng": 127.06985
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 18-6"
+  },
+  {
+    "id": "ChIJW7l4i8SkfDURgcHmrX343A4",
+    "name": "회식일번지",
+    "location": {
+      "lat": 37.5478151,
+      "lng": 127.0698585
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 18-6번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ7R5whMSkfDURH0AA4eJ-GZU",
+    "name": "통오징어떡볶이",
+    "location": {
+      "lat": 37.547072899999996,
+      "lng": 127.07000459999999
+    },
+    "rating": 2,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJh3nPYsSkfDUR96ml5FxNDGg",
+    "name": "맛있겠쭈",
+    "location": {
+      "lat": 37.5475685,
+      "lng": 127.06943379999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 1층 18-16"
+  },
+  {
+    "id": "ChIJh3nPYsSkfDURhrnzvEFtP0E",
+    "name": "영암순대국감자탕",
+    "location": {
+      "lat": 37.5475685,
+      "lng": 127.06943379999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 18-16번지"
+  },
+  {
+    "id": "ChIJh3nPYsSkfDURpwpGMsuC5bA",
+    "name": "송이족발세종대점",
+    "location": {
+      "lat": 37.547657,
+      "lng": 127.06942439999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 18-16"
+  },
+  {
+    "id": "ChIJh3nPYsSkfDURqcuXwRSviV0",
+    "name": "영암식당",
+    "location": {
+      "lat": 37.5475685,
+      "lng": 127.06943379999998
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 화양동 18-16번지 영암순대국감자탕"
+  },
+  {
+    "id": "ChIJsXTnYsSkfDURTHMZ65xqUSc",
+    "name": "웃거리왕족발",
+    "location": {
+      "lat": 37.5475685,
+      "lng": 127.06943379999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 18-16"
+  },
+  {
+    "id": "ChIJC4mrfcSkfDURCQXi2uXoG4g",
+    "name": "티오디치킨",
+    "location": {
+      "lat": 37.5473871,
+      "lng": 127.0693942
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 19-1번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJa1C9dsSkfDURxjjDEp3AgDk",
+    "name": "라면&덮밥",
+    "location": {
+      "lat": 37.5474852,
+      "lng": 127.06858609999999
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 20-1번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJa1C9dsSkfDURLG78YP1ySyU",
+    "name": "왕십리닭내장탕",
+    "location": {
+      "lat": 37.5474852,
+      "lng": 127.06858609999999
+    },
+    "rating": 4.5,
+    "address": "서울특별시 화양동 20-1번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJSQ_X9sOkfDURCcmEX5ZoRgk",
+    "name": "팔팔반점",
+    "location": {
+      "lat": 37.5473261,
+      "lng": 127.06771549999999
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 23-11번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJlXAb9sOkfDURK7DRG_k60qQ",
+    "name": "명태마을",
+    "location": {
+      "lat": 37.547526,
+      "lng": 127.06782050000001
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 23-1번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJKW5A-cOkfDURxcmgPNEU4V0",
+    "name": "명신오리앤생선구이",
+    "location": {
+      "lat": 37.5475624,
+      "lng": 127.0672476
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 23-7번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJU1ZVP7ClfDURbCxSC6aVp9M",
+    "name": "BHC치킨 화양점",
+    "location": {
+      "lat": 37.547148199999995,
+      "lng": 127.06721189999998
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 동일로 170-4"
+  },
+  {
+    "id": "ChIJrX1_RP6lfDUREQ4AEy2GMI8",
+    "name": "화양순대국감자탕",
+    "location": {
+      "lat": 37.5466836,
+      "lng": 127.0701045
+    },
+    "rating": 4.1,
+    "address": "서울특별시 광진구 화양동 군자로 39"
+  },
+  {
+    "id": "ChIJDV5tm8SkfDUR1YL0-0PHyQQ",
+    "name": "꼼반장",
+    "location": {
+      "lat": 37.5469819,
+      "lng": 127.070343
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 132-69번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJMQyaYsOkfDURfnXRP62pGyc",
+    "name": "쿠치니",
+    "location": {
+      "lat": 37.546597,
+      "lng": 127.0703274
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 1층 132-65 1호"
+  },
+  {
+    "id": "ChIJKVZnSdukfDURpb2NDwpyvsY",
+    "name": "청해횟집",
+    "location": {
+      "lat": 37.546783399999995,
+      "lng": 127.07249109999998
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 화양동 111-35"
+  },
+  {
+    "id": "ChIJ1b0aStukfDURSHkIMXCWOmg",
+    "name": "하남돼지집 세종대점",
+    "location": {
+      "lat": 37.5469414,
+      "lng": 127.07252760000002
+    },
+    "rating": 4.2,
+    "address": "서울특별시 광진구 화양동 111-27"
+  },
+  {
+    "id": "ChIJDTVXNdukfDUR9B9lkjx9Bj0",
+    "name": "엉터리맥주집세종대점",
+    "location": {
+      "lat": 37.5470943,
+      "lng": 127.0722666
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 111-36번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJDTVXNdukfDURWYp2Vh24azQ",
+    "name": "우동연가 화양점",
+    "location": {
+      "lat": 37.5470943,
+      "lng": 127.0722666
+    },
+    "rating": 4.2,
+    "address": "서울특별시 광진구 화양동 능동로19길 27"
+  },
+  {
+    "id": "ChIJq-SStsSkfDUR3yyOKvV5IC0",
+    "name": "도둑냉면",
+    "location": {
+      "lat": 37.547052099999995,
+      "lng": 127.071819
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 코지웰 5호 KR 서울특별시 광진구 화양동 113-1번지 지하2층 204호"
+  },
+  {
+    "id": "ChIJq-SStsSkfDURJLd5lE4xaIM",
+    "name": "피자플래넷건대점",
+    "location": {
+      "lat": 37.547052099999995,
+      "lng": 127.071819
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 2층 113-1 코지웰 205호"
+  },
+  {
+    "id": "ChIJq-SStsSkfDURxvEZ5m-33-8",
+    "name": "땡김분식건대점",
+    "location": {
+      "lat": 37.547052099999995,
+      "lng": 127.071819
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 코지웰 KR 서울특별시 광진구 화양동 113-1번지 지하2층 비205동 13호"
+  },
+  {
+    "id": "ChIJq-SStsSkfDURvoeW_1dm9v8",
+    "name": "수비닭건대점",
+    "location": {
+      "lat": 37.547052099999995,
+      "lng": 127.071819
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 지하 113-1 코지웰 2층 21호"
+  },
+  {
+    "id": "ChIJq-SStsSkfDURfdYPVaGdjXE",
+    "name": "마라대국건대점",
+    "location": {
+      "lat": 37.547052099999995,
+      "lng": 127.071819
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 지하 113-1 코지웰 2층 203-8호"
+  },
+  {
+    "id": "ChIJ7VlUONukfDURpbzY5VLHFNw",
+    "name": "해적",
+    "location": {
+      "lat": 37.546923,
+      "lng": 127.0730552
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 112-12번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ3YcyOtukfDURD-9_Ht8E0Lg",
+    "name": "치킨잇카이",
+    "location": {
+      "lat": 37.5471141,
+      "lng": 127.07305849999997
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 213번지"
+  },
+  {
+    "id": "ChIJ3YcyOtukfDURI2He8bWtDe8",
+    "name": "브릭스",
+    "location": {
+      "lat": 37.5471141,
+      "lng": 127.07305849999997
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 213번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ14N8RtukfDUR94CMPbqDa9w",
+    "name": "Woogi dining",
+    "location": {
+      "lat": 37.5465312,
+      "lng": 127.07304839999999
+    },
+    "rating": null,
+    "address": "7-10 능도로 19길, 광진구 서울특별시"
+  },
+  {
+    "id": "ChIJG3x5RtukfDUR3AWC5AtYt2c",
+    "name": "맑은",
+    "location": {
+      "lat": 37.5465237,
+      "lng": 127.0730386
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 111-22번지 정익제이타워 1층 101호"
+  },
+  {
+    "id": "ChIJbbRhW9ukfDURKXCxAk1nUd4",
+    "name": "피터팬노래하는소주방",
+    "location": {
+      "lat": 37.546066599999996,
+      "lng": 127.07322990000002
+    },
+    "rating": 3.9,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJQxmzol6lfDURw7g25uBEtE0",
+    "name": "비에뜨반미 건대점",
+    "location": {
+      "lat": 37.545933,
+      "lng": 127.07315200000001
+    },
+    "rating": 4.2,
+    "address": "서울특별시 광진구 화양동 94-4"
+  },
+  {
+    "id": "ChIJISh9egClfDUR4GZmWT3i2_s",
+    "name": "특별한호두와플",
+    "location": {
+      "lat": 37.5459179,
+      "lng": 127.07320999999997
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 94-59"
+  },
+  {
+    "id": "ChIJF7X9W9ukfDURLIhzkkaIQys",
+    "name": "토모다찌",
+    "location": {
+      "lat": 37.545876299999996,
+      "lng": 127.07320960000001
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 94-59번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ52SsEfqlfDURrpGYXz4fMus",
+    "name": "STUFFED 스터프트",
+    "location": {
+      "lat": 37.5459509,
+      "lng": 127.07325820000001
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 능동로 169-1"
+  },
+  {
+    "id": "ChIJt1dBWNukfDURxc1if1eNAOo",
+    "name": "수요일",
+    "location": {
+      "lat": 37.5457422,
+      "lng": 127.0730053
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 94-7번지 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJqRrlMvClfDURJzs9RDSfgM4",
+    "name": "Poke all day 포케&샐러드 건대점 Poke&salad",
+    "location": {
+      "lat": 37.5453441,
+      "lng": 127.0729107
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 능동로 163 2층"
+  },
+  {
+    "id": "ChIJdyFHptykfDURWUtOuK32GX0",
+    "name": "진퉁라멘",
+    "location": {
+      "lat": 37.5454637,
+      "lng": 127.07299409999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 94-60번지 서현빌딩 1층 101호"
+  },
+  {
+    "id": "ChIJf-wPttykfDUR_TTT9VWS41w",
+    "name": "시마다",
+    "location": {
+      "lat": 37.544686999999996,
+      "lng": 127.072603
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 화양동 2-11"
+  },
+  {
+    "id": "ChIJtQ7rc-mlfDURM5cY6IFG1Hk",
+    "name": "OURTH Yogurt",
+    "location": {
+      "lat": 37.5444375,
+      "lng": 127.07243190000001
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 능동로 153"
+  },
+  {
+    "id": "ChIJmQVjaD-lfDURNQAk1uMLi9A",
+    "name": "Nakano Ramen",
+    "location": {
+      "lat": 37.544353699999995,
+      "lng": 127.07182759999999
+    },
+    "rating": 3.9,
+    "address": "서울특별시 광진구 군자로2길 4"
+  },
+  {
+    "id": "ChIJj_cAScOkfDURdQaZd4WNAiY",
+    "name": "피자랜드",
+    "location": {
+      "lat": 37.545108899999995,
+      "lng": 127.07175929999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 1-1"
+  },
+  {
+    "id": "ChIJA9ZuobelfDURrNzGtzrGvEQ",
+    "name": "SUL설",
+    "location": {
+      "lat": 37.5448038,
+      "lng": 127.0711654
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자로3길 1 1층 SUL"
+  },
+  {
+    "id": "ChIJsQXAlcSkfDURORYJY6YgJEE",
+    "name": "장충동왕족발보쌈",
+    "location": {
+      "lat": 37.5452656,
+      "lng": 127.07117570000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 63-2"
+  },
+  {
+    "id": "ChIJg2aJgI2lfDURa70Y_HIWxGg",
+    "name": "화양동 백반집",
+    "location": {
+      "lat": 37.545373999999995,
+      "lng": 127.070797
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 15-2"
+  },
+  {
+    "id": "ChIJseQVasOkfDURdL7Kmu542DU",
+    "name": "에그마카슈 건대점",
+    "location": {
+      "lat": 37.545535799999996,
+      "lng": 127.070808
+    },
+    "rating": null,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJJ1VpFcOkfDURCVtMR8jlat0",
+    "name": "게눈감추듯",
+    "location": {
+      "lat": 37.5452592,
+      "lng": 127.07083010000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 15-5"
+  },
+  {
+    "id": "ChIJJ1VpFcOkfDUR2LtsbDg9Hdw",
+    "name": "은숙이네김치찌개",
+    "location": {
+      "lat": 37.5452061,
+      "lng": 127.0708268
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 15-5번지 1층"
+  },
+  {
+    "id": "ChIJBfUrPsOkfDURPkq9YmVtidI",
+    "name": "화양156",
+    "location": {
+      "lat": 37.545107699999996,
+      "lng": 127.0709095
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 15-6번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJf3fuW0ulfDURC-6EfpdL6SI",
+    "name": "은하동",
+    "location": {
+      "lat": 37.546376099999996,
+      "lng": 127.07017510000001
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 군자로 35 1층"
+  },
+  {
+    "id": "ChIJY5VDe8OkfDURgSsNe6v8tuk",
+    "name": "스마트식당",
+    "location": {
+      "lat": 37.5463586,
+      "lng": 127.07015039999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 1층 16-1"
+  },
+  {
+    "id": "ChIJY5VDe8OkfDURvMzGhM_S900",
+    "name": "패밀리푸드",
+    "location": {
+      "lat": 37.5463586,
+      "lng": 127.07015039999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 1층 16-1"
+  },
+  {
+    "id": "ChIJY5VDe8OkfDURgbSLBevvoX8",
+    "name": "최혜경손칼국수",
+    "location": {
+      "lat": 37.5463586,
+      "lng": 127.07015039999999
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 16-1번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJY5VDe8OkfDURFV3vKEGXR0o",
+    "name": "양곰탕",
+    "location": {
+      "lat": 37.5463586,
+      "lng": 127.07015039999999
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 16-1번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJY5VDe8OkfDUR2EjJV7Yd8VA",
+    "name": "배달삼겹직구삼건대점",
+    "location": {
+      "lat": 37.5463586,
+      "lng": 127.07015039999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 16-1번지 1층"
+  },
+  {
+    "id": "ChIJY5VDe8OkfDURn81V8XGq4pA",
+    "name": "돼지돼지배달되지",
+    "location": {
+      "lat": 37.5463586,
+      "lng": 127.07015039999999
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 16-1번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ85-oe8OkfDUR2MlcHbu2bdQ",
+    "name": "존포차",
+    "location": {
+      "lat": 37.5463415,
+      "lng": 127.07003519999999
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 16-84번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ5_cXesOkfDUR89wYA_ocRPs",
+    "name": "일구식탁",
+    "location": {
+      "lat": 37.5462713,
+      "lng": 127.06992520000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 16-11번지 1호"
+  },
+  {
+    "id": "ChIJe9rQmMOkfDUR1w-SGpyJwJw",
+    "name": "초초하우스",
+    "location": {
+      "lat": 37.5460212,
+      "lng": 127.0691792
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 1층 32-2 101호"
+  },
+  {
+    "id": "ChIJl4PAn8OkfDUR1xc9GXM-psw",
+    "name": "맛샘원",
+    "location": {
+      "lat": 37.545875699999996,
+      "lng": 127.06946500000001
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 16-18번지 1층 화양동상가 주택 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJAcieK8OkfDURA73eVlCp2YM",
+    "name": "F&B care",
+    "location": {
+      "lat": 37.543928099999995,
+      "lng": 127.07204429999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 2-39"
+  },
+  {
+    "id": "ChIJXbonFA2ZfDUR9ZWVVW3xqBI",
+    "name": "홍대돈부리 건대점",
+    "location": {
+      "lat": 37.5439271,
+      "lng": 127.07203200000001
+    },
+    "rating": 4.5,
+    "address": "서울특별시 광진구 화양동 군자로 4"
+  },
+  {
+    "id": "ChIJ0f6YK8OkfDURp4JOwUSU4D0",
+    "name": "신창원",
+    "location": {
+      "lat": 37.5439271,
+      "lng": 127.07203200000001
+    },
+    "rating": null,
+    "address": "번지, 2-39 화양동 광진구 서울특별시"
+  },
+  {
+    "id": "ChIJZ8Pc0tykfDURUSBEZGYexhQ",
+    "name": "청벽집",
+    "location": {
+      "lat": 37.544069799999995,
+      "lng": 127.0723007
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 지하 2-46 1층"
+  },
+  {
+    "id": "ChIJZ8Pc0tykfDURw-aU5s30s8w",
+    "name": "셀렉키친",
+    "location": {
+      "lat": 37.544069799999995,
+      "lng": 127.0723007
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 지하 2-46 1층"
+  },
+  {
+    "id": "ChIJZ8Pc0tykfDURgaaQndBWP0Y",
+    "name": "골라먹는키친",
+    "location": {
+      "lat": 37.544069799999995,
+      "lng": 127.0723007
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 지하 2-46 1층"
+  },
+  {
+    "id": "ChIJZ8Pc0tykfDURFqtvKLmSU8g",
+    "name": "본도시락건대점",
+    "location": {
+      "lat": 37.544079499999995,
+      "lng": 127.07236779999998
+    },
+    "rating": 3.6,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJ5-eq1cKkfDUR0I4e9fF-gG0",
+    "name": "권이네부엌",
+    "location": {
+      "lat": 37.5435552,
+      "lng": 127.0720547
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 3-21번지 지층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJT936VgClfDURHUM2eBNoS6U",
+    "name": "와이스타브 다이어트 건대점",
+    "location": {
+      "lat": 37.5434155,
+      "lng": 127.07196090000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 능동로 141"
+  },
+  {
+    "id": "ChIJkzHA08KkfDURql7iaktaEVA",
+    "name": "스시오 건대점",
+    "location": {
+      "lat": 37.5433626,
+      "lng": 127.07196989999998
+    },
+    "rating": 2.7,
+    "address": "서울특별시 광진구 능동로 141 2층"
+  },
+  {
+    "id": "ChIJBdPL08KkfDURCnfgBza0yQY",
+    "name": "Hanoi Star",
+    "location": {
+      "lat": 37.5433103,
+      "lng": 127.07196780000001
+    },
+    "rating": 3.9,
+    "address": "2nd floor, 3-25 화양동 광진구 서울특별시"
+  },
+  {
+    "id": "ChIJ0zzOHQClfDURJWJW9kZJjrI",
+    "name": "엠브로돈까스 건대점",
+    "location": {
+      "lat": 37.5433038,
+      "lng": 127.07189079999999
+    },
+    "rating": 4.3,
+    "address": "서울특별시 광진구 능동로 139"
+  },
+  {
+    "id": "ChIJCSoh0sKkfDURNq5jcDQBNLw",
+    "name": "시카고버거",
+    "location": {
+      "lat": 37.5432616,
+      "lng": 127.0719055
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 3-25"
+  },
+  {
+    "id": "ChIJy2WM0cKkfDUR8dcWIwrrgBA",
+    "name": "대호",
+    "location": {
+      "lat": 37.5432681,
+      "lng": 127.0718704
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 3-25번지"
+  },
+  {
+    "id": "ChIJvYoNR4SlfDURp0ghlrBJJHQ",
+    "name": "서울양계 건대점",
+    "location": {
+      "lat": 37.5431951,
+      "lng": 127.07190829999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 능동로 137-1"
+  },
+  {
+    "id": "ChIJl_j5zcKkfDUR3f2ytS_ZYzU",
+    "name": "ROLY POLY",
+    "location": {
+      "lat": 37.543143799999996,
+      "lng": 127.0719352
+    },
+    "rating": 4,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJQZELzsKkfDURnR8EmfxQj8k",
+    "name": "솔레미오 건대점",
+    "location": {
+      "lat": 37.5431227,
+      "lng": 127.07187769999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 3-26"
+  },
+  {
+    "id": "ChIJMfL1zsKkfDURNS0huxtp88w",
+    "name": "핫썬치킨 건대점",
+    "location": {
+      "lat": 37.5430671,
+      "lng": 127.0717944
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 3-28"
+  },
+  {
+    "id": "ChIJ-wIklGKlfDUR4QUB1EfN0sY",
+    "name": "플레져",
+    "location": {
+      "lat": 37.542982599999995,
+      "lng": 127.07175199999999
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 화양동 능동로 135-2"
+  },
+  {
+    "id": "ChIJnw8wz8KkfDURRTgz-kDd8lQ",
+    "name": "우마이도 건대점",
+    "location": {
+      "lat": 37.5430294,
+      "lng": 127.07174959999999
+    },
+    "rating": 4.2,
+    "address": "서울특별시 광진구 능동로 135-2"
+  },
+  {
+    "id": "ChIJnw8wz8KkfDURE_KdeAJHZR8",
+    "name": "오마이갓치킨",
+    "location": {
+      "lat": 37.5429999,
+      "lng": 127.07168250000001
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 3-29번지 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJTfgxz8KkfDURHjvfo8CTNUM",
+    "name": "콩불 건대점",
+    "location": {
+      "lat": 37.5429838,
+      "lng": 127.07168329999999
+    },
+    "rating": 4.2,
+    "address": "서울특별시 광진구 화양동 3-29"
+  },
+  {
+    "id": "ChIJs0LHzsKkfDURGC-VaL_0Tgo",
+    "name": "벨루테",
+    "location": {
+      "lat": 37.542969299999996,
+      "lng": 127.0718085
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 2층 3-30"
+  },
+  {
+    "id": "ChIJY2TqyMKkfDUR8c5cgzGNHHY",
+    "name": "서병장대김일병 건대점",
+    "location": {
+      "lat": 37.54290050000001,
+      "lng": 127.0716555
+    },
+    "rating": 3.6,
+    "address": "서울특별시 광진구 화양동 3-33"
+  },
+  {
+    "id": "ChIJtxTYJfWlfDURu2zJfM-EWSA",
+    "name": "워너비박스 건대점",
+    "location": {
+      "lat": 37.5428717,
+      "lng": 127.071761
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 능동로 133-1"
+  },
+  {
+    "id": "ChIJm_oiycKkfDURKt1ZGmracC0",
+    "name": "홍익떡볶이 건대점",
+    "location": {
+      "lat": 37.5428717,
+      "lng": 127.071761
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 화양동 능동로 133-1"
+  },
+  {
+    "id": "ChIJ7xtDyMKkfDURVgZpmAu3_2g",
+    "name": "보스코",
+    "location": {
+      "lat": 37.5427894,
+      "lng": 127.0716555
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 화양동 3-34"
+  },
+  {
+    "id": "ChIJGfsXyMKkfDURb68E-Jxf5lI",
+    "name": "고추먹고맴맴",
+    "location": {
+      "lat": 37.5427301,
+      "lng": 127.0716417
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 3-35번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ4dwZyMKkfDUR1NukKAUEviA",
+    "name": "장우동",
+    "location": {
+      "lat": 37.5427061,
+      "lng": 127.0716555
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동"
+  },
+  {
+    "id": "ChIJWazRQV6lfDURsfJhei9NvYY",
+    "name": "고씨네 건국대점",
+    "location": {
+      "lat": 37.5424872,
+      "lng": 127.07145229999999
+    },
+    "rating": 4.5,
+    "address": "서울특별시 광진구 화양동 3-42 2층"
+  },
+  {
+    "id": "ChIJt12-ucKkfDURZINm_4w6aN4",
+    "name": "데스티노",
+    "location": {
+      "lat": 37.5425496,
+      "lng": 127.07146069999999
+    },
+    "rating": 2.5,
+    "address": "서울특별시 광진구 능동로13길 6"
+  },
+  {
+    "id": "ChIJ80AMucKkfDURi4BE6wgI8ks",
+    "name": "홍마떡건대점",
+    "location": {
+      "lat": 37.542397199999996,
+      "lng": 127.0713453
+    },
+    "rating": 4,
+    "address": "1층, 3-43번지 화양동 광진구 서울특별시"
+  },
+  {
+    "id": "ChIJQR3ut8KkfDURx9irwviBWYw",
+    "name": "밀피유건대점",
+    "location": {
+      "lat": 37.5426551,
+      "lng": 127.07160189999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 3-37"
+  },
+  {
+    "id": "ChIJD2AeyMKkfDURWCTditTZJoE",
+    "name": "라파스타",
+    "location": {
+      "lat": 37.5427061,
+      "lng": 127.0716277
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 3-35"
+  },
+  {
+    "id": "ChIJr0E0BCulfDURwO7mhe93F3w",
+    "name": "돈가츠 펍타임",
+    "location": {
+      "lat": 37.542511399999995,
+      "lng": 127.071208
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 화양동 능동로13길 9 지하1층"
+  },
+  {
+    "id": "ChIJswEavMKkfDURhirZHZdFEx4",
+    "name": "파스타타임",
+    "location": {
+      "lat": 37.5425435,
+      "lng": 127.071162
+    },
+    "rating": 4,
+    "address": "서울특별시 화양동 5-20번지 지하 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJp1jXusKkfDURYxHoZy3SqRM",
+    "name": "미다래",
+    "location": {
+      "lat": 37.5422339,
+      "lng": 127.0714333
+    },
+    "rating": 3.3,
+    "address": "서울특별시 광진구 화양동 5-1"
+  },
+  {
+    "id": "ChIJg8HVvsKkfDUR5DSYdtiLaUs",
+    "name": "시민분식센터건대점",
+    "location": {
+      "lat": 37.5427015,
+      "lng": 127.07120750000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 1층 3-70"
+  },
+  {
+    "id": "ChIJg8HVvsKkfDUR3NWYI9yDt7k",
+    "name": "미쵸곱창",
+    "location": {
+      "lat": 37.5427015,
+      "lng": 127.07120750000001
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 3-70번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJm8LUusKkfDURv7xCkUK-l3Q",
+    "name": "반카니타",
+    "location": {
+      "lat": 37.54220610000001,
+      "lng": 127.0714056
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 화양동 5-1"
+  },
+  {
+    "id": "ChIJldnFwMKkfDURUSdMf6LeuXE",
+    "name": "카도야라멘",
+    "location": {
+      "lat": 37.542953499999996,
+      "lng": 127.071175
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 3-73번지 지하1호 지상1 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJldnFwMKkfDURTkz4D06gRIY",
+    "name": "고베규카츠 건대점",
+    "location": {
+      "lat": 37.542953499999996,
+      "lng": 127.071175
+    },
+    "rating": 3.4,
+    "address": "서울특별시 광진구 화양동 3-73"
+  },
+  {
+    "id": "ChIJOV_GwMKkfDURzEC0_pQhodk",
+    "name": "씨즈",
+    "location": {
+      "lat": 37.542953499999996,
+      "lng": 127.071175
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 3-73"
+  },
+  {
+    "id": "ChIJBW67t3ylfDURs3d_f3ns92c",
+    "name": "팔공티",
+    "location": {
+      "lat": 37.5429842,
+      "lng": 127.07095279999999
+    },
+    "rating": 4.7,
+    "address": "서울특별시 광진구 화양동 12-30"
+  },
+  {
+    "id": "ChIJhf6Ud5ClfDURSMp1h8V5lw4",
+    "name": "명랑핫도그 건대 1호점",
+    "location": {
+      "lat": 37.5429842,
+      "lng": 127.07095279999999
+    },
+    "rating": 3.2,
+    "address": "서울특별시 광진구 아차산로33길 63"
+  },
+  {
+    "id": "ChIJ2SESwMKkfDURZMhP0Q4PRiA",
+    "name": "내가찜한닭 건국대점",
+    "location": {
+      "lat": 37.5429842,
+      "lng": 127.07095279999999
+    },
+    "rating": 4.4,
+    "address": "서울특별시 화양동 12-30번지 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ1ao8DgClfDURHbYhTl7JqNw",
+    "name": "코노하 건대점",
+    "location": {
+      "lat": 37.542899399999996,
+      "lng": 127.07085140000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 능동로13길 19 2층"
+  },
+  {
+    "id": "ChIJqb5j28KkfDURtA7ww1qrxn0",
+    "name": "육회지존 건대점",
+    "location": {
+      "lat": 37.5435115,
+      "lng": 127.0712389
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 12-3"
+  },
+  {
+    "id": "ChIJeah1lcKkfDUR9wQz94inOy4",
+    "name": "멘부리건대점",
+    "location": {
+      "lat": 37.54285610000001,
+      "lng": 127.0708163
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 지하층 11-2"
+  },
+  {
+    "id": "ChIJDeSGF92kfDURthNXB4M4F2o",
+    "name": "화양동솜틀집",
+    "location": {
+      "lat": 37.5435227,
+      "lng": 127.071246
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 12-3"
+  },
+  {
+    "id": "ChIJEYsyVaqlfDURlMHoGUV7xBA",
+    "name": "메호르",
+    "location": {
+      "lat": 37.542785099999996,
+      "lng": 127.07091009999999
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 11-1"
+  },
+  {
+    "id": "ChIJO_CrlMKkfDURCocljhpo_MQ",
+    "name": "초밥짓는원숭이",
+    "location": {
+      "lat": 37.5431033,
+      "lng": 127.0706009
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 화양동 11-32"
+  },
+  {
+    "id": "ChIJt19R68KkfDUR57Tgv8lE-pk",
+    "name": "미야비",
+    "location": {
+      "lat": 37.5430949,
+      "lng": 127.07059999999998
+    },
+    "rating": 3.4,
+    "address": "서울특별시 광진구 화양동 11-32"
+  },
+  {
+    "id": "ChIJoZm57sKkfDURDbkBKeTgJIE",
+    "name": "투고샐러드 건대중문점",
+    "location": {
+      "lat": 37.5434537,
+      "lng": 127.0705034
+    },
+    "rating": 4.5,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJoZm57sKkfDUR-dXmElZ_LPg",
+    "name": "210도씨",
+    "location": {
+      "lat": 37.5434537,
+      "lng": 127.0705034
+    },
+    "rating": 4.8,
+    "address": "서울특별시 화양동 12-35번지 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ-f_-7sKkfDUR1sMVyZ98cJw",
+    "name": "BURGERRY",
+    "location": {
+      "lat": 37.543569999999995,
+      "lng": 127.07039669999999
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 번지 1층 12-36"
+  },
+  {
+    "id": "ChIJIfb968KkfDURCNbegqxqZAY",
+    "name": "Grill Monster",
+    "location": {
+      "lat": 37.5433686,
+      "lng": 127.0705783
+    },
+    "rating": 3.4,
+    "address": "서울특별시 광진구 화양동 12-34"
+  },
+  {
+    "id": "ChIJY336NyWlfDUR5JPO3V3EcG8",
+    "name": "맘스터치 피자앤치킨 건대점",
+    "location": {
+      "lat": 37.543359699999996,
+      "lng": 127.0705804
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 12-34"
+  },
+  {
+    "id": "ChIJx7X968KkfDURLD3ZAHDzhVU",
+    "name": "그릴몬스터",
+    "location": {
+      "lat": 37.543359699999996,
+      "lng": 127.0705804
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 아차산로33길 화양동"
+  },
+  {
+    "id": "ChIJx7X968KkfDUR6OI4gK9tqoA",
+    "name": "고선생고로캐",
+    "location": {
+      "lat": 37.543359699999996,
+      "lng": 127.0705804
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 12-34번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJY4JAOAClfDUR5al3ZnEYfqA",
+    "name": "요이타코",
+    "location": {
+      "lat": 37.5433385,
+      "lng": 127.0706006
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 능동로13길 30"
+  },
+  {
+    "id": "ChIJdZ7KwkylfDURWYgloWGPV38",
+    "name": "명품 마라샹궈 마라탕",
+    "location": {
+      "lat": 37.543672,
+      "lng": 127.07029469999999
+    },
+    "rating": 4.3,
+    "address": "서울특별시 광진구 능동로13길 40"
+  },
+  {
+    "id": "ChIJ04fHqh6lfDUR41unmnihnKA",
+    "name": "떡밀밀 건대역점",
+    "location": {
+      "lat": 37.543668,
+      "lng": 127.07029459999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 12-34"
+  },
+  {
+    "id": "ChIJn8nem9ilfDURp-Yqn5it8KA",
+    "name": "현이네고기국수",
+    "location": {
+      "lat": 37.544209699999996,
+      "lng": 127.070183
+    },
+    "rating": 4.1,
+    "address": "서울특별시 광진구 군자로3길 23"
+  },
+  {
+    "id": "ChIJVTbnQJ2lfDURt0I02qgyspU",
+    "name": "호파스타 건대본점",
+    "location": {
+      "lat": 37.544255199999995,
+      "lng": 127.0702032
+    },
+    "rating": 4.8,
+    "address": "서울특별시 광진구 화양동 12-52"
+  },
+  {
+    "id": "ChIJB6kN2n2lfDURpgKNL7GcsG8",
+    "name": "제주흑돼지 한아름식당",
+    "location": {
+      "lat": 37.5441447,
+      "lng": 127.0700286
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 화양동 군자로3길 27"
+  },
+  {
+    "id": "ChIJ95dR-sKkfDURvDQALwlVGCY",
+    "name": "토마토도시락 건대점",
+    "location": {
+      "lat": 37.5439837,
+      "lng": 127.07001670000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 12-40"
+  },
+  {
+    "id": "ChIJK51_MNilfDURLG8fgUqDwvg",
+    "name": "피자스쿨 건대점",
+    "location": {
+      "lat": 37.543867899999995,
+      "lng": 127.07011349999999
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 능동로13길 44 1층"
+  },
+  {
+    "id": "ChIJO8uQ-sKkfDUR66Jn0T0AiO4",
+    "name": "카츠젠 건대점",
+    "location": {
+      "lat": 37.543867899999995,
+      "lng": 127.07011349999999
+    },
+    "rating": 3.9,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJFSAt-sKkfDURi0Rbg85IcSg",
+    "name": "수퍼슬라이더스 | Super Sliders",
+    "location": {
+      "lat": 37.5440708,
+      "lng": 127.06990839999999
+    },
+    "rating": 4.5,
+    "address": "서울특별시 광진구 능동로13길 50"
+  },
+  {
+    "id": "ChIJ4792VvmlfDURZJ5Hqvg-Jfs",
+    "name": "끼니공방",
+    "location": {
+      "lat": 37.5441794,
+      "lng": 127.06983430000001
+    },
+    "rating": 3.5,
+    "address": "서울특별시 광진구 화양동 15 - 54 끼니공방 1층"
+  },
+  {
+    "id": "ChIJucQ6_8KkfDUR-4534JTKFnE",
+    "name": "소야돼지야",
+    "location": {
+      "lat": 37.5443194,
+      "lng": 127.06966990000001
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 15-55번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJrbVy15ilfDURjoickLFPS9E",
+    "name": "소와참숯3호점",
+    "location": {
+      "lat": 37.5450893,
+      "lng": 127.0689112
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 16-28 1층"
+  },
+  {
+    "id": "ChIJo_oyq8OkfDUR6sgspal0GhE",
+    "name": "통숯불돼지고기",
+    "location": {
+      "lat": 37.544696099999996,
+      "lng": 127.0693303
+    },
+    "rating": 4,
+    "address": "서울특별시 화양동 15-62번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJo_oyq8OkfDURHEVN4SdrC6A",
+    "name": "혼식당",
+    "location": {
+      "lat": 37.544696099999996,
+      "lng": 127.0693303
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 15-62번지 1층"
+  },
+  {
+    "id": "ChIJo_oyq8OkfDURzoV47HfVPW4",
+    "name": "쏭타코야끼카페",
+    "location": {
+      "lat": 37.544678999999995,
+      "lng": 127.0693178
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 1층"
+  },
+  {
+    "id": "ChIJ326SgX-lfDURmtPY_e_6naM",
+    "name": "대패로23",
+    "location": {
+      "lat": 37.5455438,
+      "lng": 127.0686817
+    },
+    "rating": 4.3,
+    "address": "서울, 광진구 능동로13길 88"
+  },
+  {
+    "id": "ChIJz5B3usOkfDURLm9yVv64Qxg",
+    "name": "뚠뚠족발AND장칼",
+    "location": {
+      "lat": 37.5455153,
+      "lng": 127.0686638
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 1층 32-17"
+  },
+  {
+    "id": "ChIJ2V4RARGlfDURTbPTbh34wH4",
+    "name": "회풍",
+    "location": {
+      "lat": 37.5455153,
+      "lng": 127.0686638
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 화양동 능동로13길 88"
+  },
+  {
+    "id": "ChIJz5B3usOkfDURFTGlaMOW58g",
+    "name": "고기세접시",
+    "location": {
+      "lat": 37.5455153,
+      "lng": 127.0686638
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 32-17번지 1층"
+  },
+  {
+    "id": "ChIJ4ac7azWlfDURqCQAJ7u0pIg",
+    "name": "조개에 꼬치다",
+    "location": {
+      "lat": 37.5455153,
+      "lng": 127.0686638
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 능동로13길 88"
+  },
+  {
+    "id": "ChIJYbGZlcOkfDURGM70pz3h4ig",
+    "name": "밥깨비",
+    "location": {
+      "lat": 37.546240399999995,
+      "lng": 127.0684092
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 32-32번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJYbGZlcOkfDUR6FQ1P6jfc5A",
+    "name": "유석풍천장어",
+    "location": {
+      "lat": 37.5462425,
+      "lng": 127.06840749999998
+    },
+    "rating": 4.6,
+    "address": "서울특별시 광진구 동일로28길 32"
+  },
+  {
+    "id": "ChIJu1GbBdukfDURDkeh4Hc_xks",
+    "name": "대학갈비",
+    "location": {
+      "lat": 37.5469,
+      "lng": 127.07443289999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 111-72"
+  },
+  {
+    "id": "ChIJA9CeBdukfDURyomCh0ulsAE",
+    "name": "이박사한우촌",
+    "location": {
+      "lat": 37.5469278,
+      "lng": 127.07434959999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 111-72"
+  },
+  {
+    "id": "ChIJgYNOBNukfDURnFcTIv7jdhw",
+    "name": "붕어빵 4개 천원!잉어빵아님",
+    "location": {
+      "lat": 37.5470143,
+      "lng": 127.0744641
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 169-1"
+  },
+  {
+    "id": "ChIJ_0woZtukfDURAsyUvedLUJY",
+    "name": "공릉동원조멸치국수 화양점",
+    "location": {
+      "lat": 37.5459447,
+      "lng": 127.07377120000001
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 111 85번지 빌리브인테라스 1층 102호"
+  },
+  {
+    "id": "ChIJ-SwjGSmlfDURwoLnVA84tZU",
+    "name": "마늘은약이다보쌈&족발 건대입구역점",
+    "location": {
+      "lat": 37.5462765,
+      "lng": 127.07535530000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 499-38 마늘은약이다보쌈&족발 건대입구역점 2층"
+  },
+  {
+    "id": "ChIJkXRNpdukfDURwaEbGjgAMa8",
+    "name": "오늘통닭",
+    "location": {
+      "lat": 37.5464057,
+      "lng": 127.0755739
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동"
+  },
+  {
+    "id": "ChIJd-MNJKSlfDURTf67oA340C8",
+    "name": "백쉐프 초밥가게",
+    "location": {
+      "lat": 37.546639899999995,
+      "lng": 127.07517879999999
+    },
+    "rating": 4.9,
+    "address": "서울특별시 광진구 광나루로 410"
+  },
+  {
+    "id": "ChIJAXOwp9ukfDURpUWUKHuipXI",
+    "name": "이순미",
+    "location": {
+      "lat": 37.5465376,
+      "lng": 127.0750404
+    },
+    "rating": null,
+    "address": "서울특별시 06 07 08 09 KR 서울특별시 광진구 화양동 527번지 케이씨씨파크타운 지하층 비02 04호 05"
+  },
+  {
+    "id": "ChIJAXOwp9ukfDUR4p3DDQkHbu0",
+    "name": "오니기리와이규동",
+    "location": {
+      "lat": 37.5465376,
+      "lng": 127.0750404
+    },
+    "rating": 3.1,
+    "address": "서울특별시 화양동 527번지 케이씨빌딩 109호 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJs-cHAsilfDURBGzTd-j4TuA",
+    "name": "빕스 어린이대공원점",
+    "location": {
+      "lat": 37.5465376,
+      "lng": 127.0750404
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 화양동 광나루로 410 KCC 파크타운 2층"
+  },
+  {
+    "id": "ChIJ-Vmjp9ukfDURSoX6QfulrWc",
+    "name": "미소리",
+    "location": {
+      "lat": 37.546538999999996,
+      "lng": 127.0750162
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 527"
+  },
+  {
+    "id": "ChIJCYOlutukfDURoQ7Xdg8Iv68",
+    "name": "레올리비에",
+    "location": {
+      "lat": 37.5464001,
+      "lng": 127.07562719999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 499-1"
+  },
+  {
+    "id": "ChIJ4x4h-fWlfDURu1yQ_ifpBpY",
+    "name": "서울호랑이(seoul tiger)",
+    "location": {
+      "lat": 37.5462035,
+      "lng": 127.07494609999999
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 광나루로20길 13-8 서울호랑이 1층"
+  },
+  {
+    "id": "ChIJWRnAvtukfDURl3ZV9VnA2I4",
+    "name": "피자포텐",
+    "location": {
+      "lat": 37.5459289,
+      "lng": 127.07600640000001
+    },
+    "rating": 4,
+    "address": "서울특별시 화양동 496-10번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJUwT7yNukfDUR28VlXLrn_W0",
+    "name": "ATO Italian Restaurant",
+    "location": {
+      "lat": 37.546243,
+      "lng": 127.0764548
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 광나루로"
+  },
+  {
+    "id": "ChIJ0ZINxtukfDURildN0FW56mk",
+    "name": "래빗홀 버거",
+    "location": {
+      "lat": 37.5460129,
+      "lng": 127.076516
+    },
+    "rating": 4.6,
+    "address": "서울특별시 광진구 광나루로 424"
+  },
+  {
+    "id": "ChIJPcU9wdukfDURajAwtWK4zA8",
+    "name": "도도삼겹",
+    "location": {
+      "lat": 37.54576050000001,
+      "lng": 127.0764815
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 화양동 495-15번지 1층"
+  },
+  {
+    "id": "ChIJPcU9wdukfDURpPRpGk3doGw",
+    "name": "멜팅그릴",
+    "location": {
+      "lat": 37.54576050000001,
+      "lng": 127.0764815
+    },
+    "rating": 1,
+    "address": "서울특별시 화양동 495-15번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJCzK5ZNmkfDUR0R5AkoN-uvc",
+    "name": "케이씨팩토리",
+    "location": {
+      "lat": 37.545506499999995,
+      "lng": 127.07800099999999
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 478-2번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJvSkesT2lfDURce8W06iOFwM",
+    "name": "카츠백 건대점",
+    "location": {
+      "lat": 37.5455311,
+      "lng": 127.07801810000001
+    },
+    "rating": 4.5,
+    "address": "서울특별시 광진구 광나루로 438"
+  },
+  {
+    "id": "ChIJ_RspbtmkfDURCTkVYtzor44",
+    "name": "공룡치킨",
+    "location": {
+      "lat": 37.5453786,
+      "lng": 127.07846319999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 467-1번지 동일빌딩 1층"
+  },
+  {
+    "id": "ChIJC1DV4O6lfDURSyV4EpuIsAY",
+    "name": "원김치찜",
+    "location": {
+      "lat": 37.5454426,
+      "lng": 127.0770784
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 485-3"
+  },
+  {
+    "id": "ChIJd8MG3dukfDUR1uz72z8lC6Y",
+    "name": "(주)야한곱창",
+    "location": {
+      "lat": 37.5454426,
+      "lng": 127.0770784
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 485-3번지 1층"
+  },
+  {
+    "id": "ChIJbS4DvPelfDUR7scOlNvRYCI",
+    "name": "밀플랜비 건대점",
+    "location": {
+      "lat": 37.545588599999995,
+      "lng": 127.0766296
+    },
+    "rating": 4.5,
+    "address": "서울특별시 광진구 광나루로24길 15"
+  },
+  {
+    "id": "ChIJ1Ubi59ukfDURxPvrX0YLfYM",
+    "name": "풍년가마",
+    "location": {
+      "lat": 37.5453641,
+      "lng": 127.0769538
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 508-4"
+  },
+  {
+    "id": "ChIJLSrR9t-lfDURYhPMr_aY3JY",
+    "name": "미미타코야끼&카페",
+    "location": {
+      "lat": 37.5451771,
+      "lng": 127.0768238
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 광나루로24길 29 1층"
+  },
+  {
+    "id": "ChIJ4_mtxNelfDURbzq0jhk3JTg",
+    "name": "길이식당",
+    "location": {
+      "lat": 37.5455563,
+      "lng": 127.0762828
+    },
+    "rating": 4.6,
+    "address": "서울특별시 광진구 화양동 광나루로24길 18"
+  },
+  {
+    "id": "ChIJ9910ltukfDUR59q9OSTFDIs",
+    "name": "소녀감성포차",
+    "location": {
+      "lat": 37.545671299999995,
+      "lng": 127.0759066
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 496-4번지 1층"
+  },
+  {
+    "id": "ChIJ-XRwk9ukfDURBl05t3mgGHw",
+    "name": "오사카돈가스",
+    "location": {
+      "lat": 37.5453441,
+      "lng": 127.07612229999998
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 495-23번지 2층"
+  },
+  {
+    "id": "ChIJ-XRwk9ukfDURjVJky1hGuRE",
+    "name": "짱돈까스분식",
+    "location": {
+      "lat": 37.5453441,
+      "lng": 127.07612229999998
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 495-23번지 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJWe3W7NukfDURASyRnEIYAwg",
+    "name": "피시마루",
+    "location": {
+      "lat": 37.5451903,
+      "lng": 127.0762803
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 495-25번지 3층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJxbvrHgClfDURjVQfMaPMm5E",
+    "name": "부리또피아",
+    "location": {
+      "lat": 37.54532590000001,
+      "lng": 127.07588519999999
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 능동로16길 51 효일약국"
+  },
+  {
+    "id": "ChIJg33xjdukfDURus-uQT1Ka-c",
+    "name": "지지고",
+    "location": {
+      "lat": 37.545118599999995,
+      "lng": 127.0759813
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 513번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJg33xjdukfDURIy8B7sr84Rk",
+    "name": "맘마킹도시락",
+    "location": {
+      "lat": 37.545118599999995,
+      "lng": 127.0759813
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 513번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJg33xjdukfDURhTbGvCS--Ag",
+    "name": "오떡순클럽",
+    "location": {
+      "lat": 37.545118599999995,
+      "lng": 127.0759813
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 513번지 화양동 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJD4eWkdukfDURsWh1lG6HmFY",
+    "name": "불난떡볶이건대점",
+    "location": {
+      "lat": 37.545285199999995,
+      "lng": 127.0758457
+    },
+    "rating": 4.5,
+    "address": "서울특별시 화양동 504-2번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJU4bGi9ukfDURULFAeSy4daA",
+    "name": "양수리냉면",
+    "location": {
+      "lat": 37.5447564,
+      "lng": 127.07598349999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 1층 427-3"
+  },
+  {
+    "id": "ChIJqZRijtukfDURgDNEalfVjlA",
+    "name": "밥스밥스",
+    "location": {
+      "lat": 37.54504480000001,
+      "lng": 127.07587020000001
+    },
+    "rating": 5,
+    "address": "서울특별시 화양동 514번지 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJAQAAANukfDURzN8kdTKEVmA",
+    "name": "소문난닭칼국수닭곰탕",
+    "location": {
+      "lat": 37.5450229,
+      "lng": 127.0756759
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 능동로16길 48"
+  },
+  {
+    "id": "ChIJXR9Hj9ukfDURa4P4P6nxjUk",
+    "name": "버거쿡",
+    "location": {
+      "lat": 37.5450233,
+      "lng": 127.0756577
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 515번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJP3Yoh9ukfDUR8IugICOHUqw",
+    "name": "진성식당",
+    "location": {
+      "lat": 37.5450164,
+      "lng": 127.07546660000001
+    },
+    "rating": 4,
+    "address": "서울특별시 광진구 화양동 516-2"
+  },
+  {
+    "id": "ChIJS21PgNukfDURwiyaMVcWKIw",
+    "name": "쌍둥이네칼국수",
+    "location": {
+      "lat": 37.5450291,
+      "lng": 127.0750251
+    },
+    "rating": 4.6,
+    "address": "서울특별시 화양동 500-3번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJN2XPodykfDURSAkZSv0759Q",
+    "name": "팍스그릴",
+    "location": {
+      "lat": 37.5452891,
+      "lng": 127.07351639999999
+    },
+    "rating": 4.4,
+    "address": "서울특별시 광진구 화양동 94-25"
+  },
+  {
+    "id": "ChIJ9WTTJQClfDURmPJOXBZc1Lg",
+    "name": "아미고 프란고",
+    "location": {
+      "lat": 37.5455172,
+      "lng": 127.0735308
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 능동로 168"
+  },
+  {
+    "id": "ChIJmQLZ7dGkfDUROTWF9RQPyJI",
+    "name": "예가샌드위치",
+    "location": {
+      "lat": 37.5541167,
+      "lng": 127.0732468
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 146-7번지 1층"
+  },
+  {
+    "id": "ChIJYQsOSNCkfDUR8dGOwKmUnQ4",
+    "name": "빅베어8",
+    "location": {
+      "lat": 37.5510076,
+      "lng": 127.07583249999998
+    },
+    "rating": 2.9,
+    "address": "서울특별시 광진구 능동로 209"
+  },
+  {
+    "id": "ChIJsQ6cgE2lfDURGIwY61NcBGY",
+    "name": "bigbare8",
+    "location": {
+      "lat": 37.5509854,
+      "lng": 127.075783
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 군자동 310"
+  },
+  {
+    "id": "ChIJB3oYOdGkfDURNA9abAdSkwk",
+    "name": "버거킹 군자능동점",
+    "location": {
+      "lat": 37.5522223,
+      "lng": 127.07660299999999
+    },
+    "rating": 4.2,
+    "address": "서울특별시 광진구 능동로 245"
+  },
+  {
+    "id": "ChIJWyGORtGkfDURN3CwfKaRzSk",
+    "name": "스타초밥참치",
+    "location": {
+      "lat": 37.5526103,
+      "lng": 127.0767161
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 244번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJ8Xlj99OkfDUR2syIFWoaiHo",
+    "name": "유한회사더블랑드",
+    "location": {
+      "lat": 37.5538751,
+      "lng": 127.07737619999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 번지 8층 2-51 영진빌딩"
+  },
+  {
+    "id": "ChIJZTT7J4ulfDURWLy8bw1LCW4",
+    "name": "파파존스 광진점",
+    "location": {
+      "lat": 37.553605,
+      "lng": 127.07786959999999
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 능동로 266"
+  },
+  {
+    "id": "ChIJ-aLMKPClfDURUcu9oOra8fI",
+    "name": "콩심콩나물국밥",
+    "location": {
+      "lat": 37.5527324,
+      "lng": 127.07746840000001
+    },
+    "rating": 4.1,
+    "address": "서울특별시 광진구 능동 315-2"
+  },
+  {
+    "id": "ChIJ5fBvfOilfDURmDFhQtJO34U",
+    "name": "미스코다리 미스터황태",
+    "location": {
+      "lat": 37.5519353,
+      "lng": 127.0770971
+    },
+    "rating": 4.1,
+    "address": "서울특별시 광진구 능동로 246"
+  },
+  {
+    "id": "ChIJ4Xk7RKClfDURUhBI8565VRE",
+    "name": "카츠 헤세드 어린이대공원점",
+    "location": {
+      "lat": 37.5519284,
+      "lng": 127.07705650000001
+    },
+    "rating": 3.6,
+    "address": "서울특별시 광진구 능동로 246 카츠 헤세드 2층"
+  },
+  {
+    "id": "ChIJ78rY6tGkfDURBUsXXLyVHB4",
+    "name": "곱창하우스",
+    "location": {
+      "lat": 37.553716699999995,
+      "lng": 127.07354119999998
+    },
+    "rating": 5,
+    "address": "서울특별시 군자동 149-3번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJa7culdGkfDURK2iFWCcmnOs",
+    "name": "빨간떡볶이샵",
+    "location": {
+      "lat": 37.5536337,
+      "lng": 127.07359679999999
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 149-6번지 2층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJyf-UkdGkfDUR5V7GwEf_2sc",
+    "name": "샐러드쿡",
+    "location": {
+      "lat": 37.5538656,
+      "lng": 127.0739799
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 150 12번지 1층"
+  },
+  {
+    "id": "ChIJXegAPhilfDURLVIHUdskTC4",
+    "name": "뚱스들의요란한덮밥",
+    "location": {
+      "lat": 37.5540762,
+      "lng": 127.0750932
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 군자로 140"
+  },
+  {
+    "id": "ChIJEYTZSp-lfDURqPPZD9g0wsg",
+    "name": "옛날멸치국수",
+    "location": {
+      "lat": 37.5540762,
+      "lng": 127.0750932
+    },
+    "rating": 5,
+    "address": "서울특별시 광진구 군자동 군자로 140 1층"
+  },
+  {
+    "id": "ChIJy2cyftGkfDURI_w0wUb8PKM",
+    "name": "오래오래포차",
+    "location": {
+      "lat": 37.5540762,
+      "lng": 127.0750932
+    },
+    "rating": null,
+    "address": "서울특별시 군자동 65-3번지 A동 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJzYYO-aOlfDUR1EBzxeNItKM",
+    "name": "미스터육회연어왕 군자점",
+    "location": {
+      "lat": 37.5542334,
+      "lng": 127.07511129999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자로 140"
+  },
+  {
+    "id": "ChIJN8qqLNKkfDURqt_6HcXQzCc",
+    "name": "60계서울군자점",
+    "location": {
+      "lat": 37.5544757,
+      "lng": 127.0749117
+    },
+    "rating": 3,
+    "address": "서울특별시 광진구 군자동 번지 1층 48-59"
+  },
+  {
+    "id": "ChIJJa-e0tOkfDURZFT0AmobhlQ",
+    "name": "우총각돈처녀",
+    "location": {
+      "lat": 37.554704699999995,
+      "lng": 127.07501599999999
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 48-20"
+  },
+  {
+    "id": "ChIJedXny9OkfDURRqZWCXtHGzQ",
+    "name": "꿉자",
+    "location": {
+      "lat": 37.555003299999996,
+      "lng": 127.07520620000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 48-35번지 1층"
+  },
+  {
+    "id": "ChIJSWdPJNKkfDUR1aeIlPT6pJQ",
+    "name": "청목원",
+    "location": {
+      "lat": 37.554885999999996,
+      "lng": 127.07403400000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 154 16번지"
+  },
+  {
+    "id": "ChIJ3XHP4tGkfDURTFGFBaDB7s0",
+    "name": "파다닭치킨",
+    "location": {
+      "lat": 37.5545087,
+      "lng": 127.0723354
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 군자동 117-13"
+  },
+  {
+    "id": "ChIJF2km4sOkfDUR0KjOAgzRdQ0",
+    "name": "깜닭치킨 화양점",
+    "location": {
+      "lat": 37.547165799999995,
+      "lng": 127.0670498
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 동일로 170"
+  },
+  {
+    "id": "ChIJuwWI4cOkfDUR8or0UusvoBw",
+    "name": "맛고향해장국",
+    "location": {
+      "lat": 37.5469832,
+      "lng": 127.06698920000001
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 23-39"
+  },
+  {
+    "id": "ChIJacUP4cOkfDURCQP2_nqG1BM",
+    "name": "진수성찬",
+    "location": {
+      "lat": 37.546853399999996,
+      "lng": 127.0670718
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 23-40번지 1층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJbVK6HgClfDURekedquZL3sI",
+    "name": "노산서 도삭면",
+    "location": {
+      "lat": 37.5467388,
+      "lng": 127.06691590000001
+    },
+    "rating": 4,
+    "address": "서울특별시"
+  },
+  {
+    "id": "ChIJc_IEYMGkfDURtXsKfczZwL4",
+    "name": "로제찜닭",
+    "location": {
+      "lat": 37.5467227,
+      "lng": 127.0668381
+    },
+    "rating": null,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJd-686MOkfDUR_iCqmZZ8RTk",
+    "name": "숙성회&손두부",
+    "location": {
+      "lat": 37.5467078,
+      "lng": 127.0675852
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 번지 지하 20-25 1층"
+  },
+  {
+    "id": "ChIJlydmPDSlfDURalpzmszpcPc",
+    "name": "힘톤씨의 주방",
+    "location": {
+      "lat": 37.5463174,
+      "lng": 127.06766719999999
+    },
+    "rating": 4.3,
+    "address": "서울특별시 광진구 화양동 31-3"
+  },
+  {
+    "id": "ChIJ3W0y3sOkfDURovJHDcNROhk",
+    "name": "나살던고향은",
+    "location": {
+      "lat": 37.546636899999996,
+      "lng": 127.0670474
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 24-2번지 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJU727YcGkfDURjUs-MbdB9gU",
+    "name": "철하콴",
+    "location": {
+      "lat": 37.546589499999996,
+      "lng": 127.0667526
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 24-7번지 3층 광진구 서울특별시 KR"
+  },
+  {
+    "id": "ChIJXbm7YcGkfDURA7L672ovA0U",
+    "name": "만석당",
+    "location": {
+      "lat": 37.546589499999996,
+      "lng": 127.0667526
+    },
+    "rating": null,
+    "address": "대한민국 서울특별시"
+  },
+  {
+    "id": "ChIJj5k_fsGkfDURmntm9k1Z0rs",
+    "name": "자연 담은 화로",
+    "location": {
+      "lat": 37.545826999999996,
+      "lng": 127.06678550000001
+    },
+    "rating": 2,
+    "address": "서울특별시 광진구 화양동 24-14"
+  },
+  {
+    "id": "ChIJ1bz3tsOkfDUR3co4VdZZtdQ",
+    "name": "나비부엌",
+    "location": {
+      "lat": 37.5454265,
+      "lng": 127.068382
+    },
+    "rating": null,
+    "address": "서울특별시 광진구 화양동 33-13번지 1층"
+  },
+  {
+    "id": "ChIJ1bz3tsOkfDURSNNBQRomINI",
+    "name": "용가리곱창",
+    "location": {
+      "lat": 37.5454265,
+      "lng": 127.068382
+    },
+    "rating": null,
+    "address": "서울특별시 화양동 33-13번지 1층 광진구 서울특별시 KR"
+  }
+]
