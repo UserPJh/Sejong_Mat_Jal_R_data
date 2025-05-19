@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# 세종대 주변 음식점
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. [rawData.json](##rawData.json)
 
-## Available Scripts
+- "서울시 일반음식점 인허가 정보" 서울시에 등록된 음식점(5월 11일 기준)
+- 519,600개
+- https://data.seoul.go.kr/dataList/OA-16094/S/1/datasetView.do
 
-In the project directory, you can run:
+## 2. coordinates.json
 
-### `npm start`
+- "세종대 주변"의 음식점 검색 기준 좌표
+- 151개
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 3. [restaurants.json](##restaurants.json)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **RestaurantCollector.jsx**
+- Google Maps의 Nearby Search API를 사용, coordinates.json의 좌표 기준 반경 50m 이내의 모든 "restaurant"로 등록된 장소를 식별
+- 672개
 
-### `npm test`
+## 4. [availableData.json](##availableData.json)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **RestaurantFiltering.jsx**
+- [rawData.json](##rawData.json)에서 영업상태가 "영업"이고, 주소가 "서울특별시 광진구"인 음식점들만 필터링
+- 4,287개
 
-### `npm run build`
+## 5. restaurantsIdentified.json
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **RestaurantFiltering.jsx**
+- [restaurants.json](##restaurants.json)의 "name" 과 [availableData.json](##availableData.json)의 "bplcnm"(사업장명)을 비교하여
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  "name", "bplcnm"이 일치(포함)하는 음식점을 필터링 후
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  위생업태명(e.g. 한식, 일식, ...)을
+  [restaurants.json](##restaurants.json)에 "majorTag"로 추가
 
-### `npm run eject`
+- ```json
+    e.g.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    ### restaurants.json
+    {
+    "id": "ChIJwVFs2sSkfDURnyTGSSXzdro",
+    "name": "세종원",
+    "location": {
+      "lat": 37.5480781,
+      "lng": 127.07150339999998
+    },
+    "rating": 4.3,
+    "address": "서울특별시 광진구 군자동 361-32",
+    "majorTag": "중국식"
+    },
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    ### availableData.json
+    {
+    "lastmodts": "2025-04-15 13:57:58",
+    "dtlstatenm": "영업",
+    "totepnum": null,
+    "wmeipcnt": null,
+    "bplcnm": "앨리스핫도그",
+  	...
+    "trdstatenm": "영업/정상",
+    "sitewhladdr": "서울특별시 광진구 군자동 360-20 광진 동양파라곤 1단지",
+    "uptaenm": "한식",
+    },
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- 332개
 
-## Learn More
+## 6. restaurantsDeleted.json
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- deletedRestaurant.html
+- [restaurants.json](##restaurants.json) 에서 제외된 음식점
+- 340개
